@@ -1,0 +1,14 @@
+depot/
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+.idea/
+.vscode/
+*.swp
+Thumbs.db
+Desktop.ini
